@@ -1,0 +1,12 @@
+IF(x>8)
+THEN
+z = z+2;
+h = h+4;
+x= x+2;
+ENDIF
+x=2;
+WHILE(y<8)
+BEGIN
+a = a+2;
+ENDWHILE
+x = 2;
